@@ -2,7 +2,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Rexine Cost Calculator</title>
 <style>
     body { font-family: Arial, sans-serif; margin: 20px; padding: 0; background: #f5f5f5; }
     .card { background: #fff; padding: 20px; border-radius: 12px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
